@@ -7,8 +7,8 @@ There will be four new programs for the Shively Library for May and June, in add
 | Chess for Beginners and Novices | Mondays, 5/4 and 6/1, 11 am - 12:30 pm | Coach Corbin from the West Louisville Chess Team comes to help teach folks of all ages play chess | Recurring |
 | Computer Help and Computer Basics | By Appointment, Monday - Saturday | Help patrons with specific instruction on computer related issues, or give them a basic introduction to computers | Recurring |
 | ECHO Outdoor Explore After School Program | Mondays in May (excl. 5/27), 5:30 pm - 7 pm | Various outdoor play and environmental education programs presented in partnership with ECHO in Shively Park. | New |
+| Jefferson County Master Gardener Association Program | TBD | TBD, but it will be in collaboration with JCMGA | New | 
 | Job and Education Fair | Monday, 6/3, 4 pm - 6 pm | In partnership with Kentuckiana Works and the Community Partners from last time. A job fair for adults and high schoolers to connect folks in the area to employment and education opportunities | New|
-| Master Gardeners of Louisville Program | TBD | TBD, but it will be in collaboration with Master Gardeners of Louisville | New | 
 | Resume Help | By Appointment, Tuesday, Fridays, and Saturdays | Britt will help patrons with resumes and job applications | New
 
 ## ECHO Outdoor Explore After School Program
@@ -23,6 +23,12 @@ To Do:
 - [ ] Contact Crystal Puryear to confirm if there's
       any other actions I need to take
 
+## Jefferson County Master Gardener Association Program
+- [ ] Await confirmation of a program date (and topic) from Tony Dingman
+- [x] Finish RET for program (Due **3/1**)
+- [ ] Finish Program Proposal (Due **3/15**)
+- [ ] Prep the Seed Library so that it's ready to be unveiled during this program
+
 ## Job and Education Fair
 - [x] Determine a date and reach out to Charlotte Kearns
 - [ ] Reach out to Community Partners:
@@ -36,9 +42,3 @@ To Do:
 - Louisville Metro?
 - [x] Finish RET for program (Due **3/1**)
 - [ ] Finish Program Proposal (Due **3/15**)
-
-## Master Gardeners of Louisville Program
-- [ ] Await confirmation of a program date (and topic) from Tony Dingman
-- [x] Finish RET for program (Due **3/1**)
-- [ ] Finish Program Proposal (Due **3/15**)
-- [ ] Prep the Seed Library so that it's ready to be unveiled during this program
