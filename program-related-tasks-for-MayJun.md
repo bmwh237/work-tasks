@@ -7,7 +7,7 @@ There will be four new programs for the Shively Library for May and June, in add
 | Chess for Beginners and Novices | Mondays, 5/4 and 6/1, 11 am - 12:30 pm | Coach Corbin from the West Louisville Chess Team comes to help teach folks of all ages play chess | Recurring |
 | Computer Help and Computer Basics | By Appointment, Monday - Saturday | Help patrons with specific instruction on computer related issues, or give them a basic introduction to computers | Recurring |
 | ECHO Outdoor Explore After School Program | Mondays in May (excl. 5/27), 5:30 pm - 7 pm | Various outdoor play and environmental education programs presented in partnership with ECHO in Shively Park. | New |
-| Job and Education Fair | Monday, 6/3, 4 pm - 6 pm | In partnership with Kentuckiana Works and the Community Partners from last time. A job fair for adults and high schoolers to connect folks in the area to employment opportunities | New|
+| Job and Education Fair | Monday, 6/3, 4 pm - 6 pm | In partnership with Kentuckiana Works and the Community Partners from last time. A job fair for adults and high schoolers to connect folks in the area to employment and education opportunities | New|
 | Master Gardeners of Louisville Program | TBD | TBD, but it will be in collaboration with Master Gardeners of Louisville | New | 
 | Resume Help | By Appointment, Tuesday, Fridays, and Saturdays | Britt will help patrons with resumes and job applications | New
 
