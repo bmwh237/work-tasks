@@ -1,6 +1,6 @@
 # New Programs for May and June
 There will be four new programs for the Shively Library for May and June, in addition to the four recurring programs. Britt is responsible for the Resume Help program.
-| Program Title | DATE(S) AND TIME | DESCRIPTION | NEW OR RECURRING |
+| PROGRAM TITLE | DATE(S) AND TIME | DESCRIPTION | NEW OR RECURRING |
 | ----------- | ----------- | ----------- | ----------- |
 | Adult Game Night | Thursdays, 5/16 and 6/20, 6 pm - 8 pm | Learning how to play new games or play old favorites | Recurring |
 | Book Discussion Group | Thursdays, 5/2 and 6/6, 6:30 pm - 7:30 pm | Reading *Crying in H Mart* by Michelle Zauner and *Song of Achilles* by Madeline Miller | Recurring |
