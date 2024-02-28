@@ -15,7 +15,7 @@ There will be four new programs for the Shively Library for May and June, in add
 To Do:
 - [x] Agree on a day(s) and time for the program
 - Three programs on 5/6, 5/13, and 5/20 in May
-- [ ] Finish RET for program (Due **3/1**)
+- [x] Finish RET for program (Due **3/1**)
 - [ ] Finish Program Proposal (Due **3/15**)
 - [ ] Find a time to meet with Autumn and/or the ECHO
       Team to walk the Park and plan the program more
@@ -34,11 +34,11 @@ To Do:
 - JenCare?
 - LFPL?
 - Louisville Metro?
-- [ ] Finish RET for program (Due **3/1**)
+- [x] Finish RET for program (Due **3/1**)
 - [ ] Finish Program Proposal (Due **3/15**)
 
 ## Master Gardeners of Louisville Program
 - [ ] Await confirmation of a program date (and topic) from Tony Dingman
-- [ ] Finish RET for program (Due **3/1**)
+- [x] Finish RET for program (Due **3/1**)
 - [ ] Finish Program Proposal (Due **3/15**)
 - [ ] Prep the Seed Library so that it's ready to be unveiled during this program
