@@ -38,5 +38,7 @@ To Do:
 - JenCare?
 - LFPL?
 - Louisville Metro?
+- Simmons College
+- JCTC
 - [x] Finish RET for program (Due **3/1**)
 - [x] Finish Program Proposal (Due **3/15**)
